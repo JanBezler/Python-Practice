@@ -1,0 +1,1 @@
+print("Zdanie ma {0} wyrazów".format(int(list(input("Pisz wyrazy: ")).count(" "))+1))
